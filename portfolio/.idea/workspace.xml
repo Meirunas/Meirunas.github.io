@@ -37,8 +37,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.other.html">
-    <configuration name="android.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/android-dev/android.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.database.html">
+    <configuration name="database.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/database-dev/database.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/index.html" useBuiltInWebServerPort="true">
@@ -47,15 +47,19 @@
     <configuration name="other.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/other-dev/other.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="software.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/software-dev/software.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="webdev.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/web-dev/webdev.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.other.html" />
+        <item itemvalue="JavaScript Debug.database.html" />
+        <item itemvalue="JavaScript Debug.software.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.other.html" />
         <item itemvalue="JavaScript Debug.webdev.html" />
-        <item itemvalue="JavaScript Debug.android.html" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +89,7 @@
       <workItem from="1570457673372" duration="3710000" />
       <workItem from="1570464612691" duration="3976000" />
       <workItem from="1570524532073" duration="129000" />
-      <workItem from="1570524662668" duration="17577000" />
+      <workItem from="1570524662668" duration="18355000" />
     </task>
     <servers />
   </component>
