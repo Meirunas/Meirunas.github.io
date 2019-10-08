@@ -37,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.database.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="database.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/database-dev/database.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -55,10 +55,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.database.html" />
-        <item itemvalue="JavaScript Debug.software.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.other.html" />
+        <item itemvalue="JavaScript Debug.database.html" />
+        <item itemvalue="JavaScript Debug.software.html" />
         <item itemvalue="JavaScript Debug.webdev.html" />
       </list>
     </recent_temporary>
@@ -89,7 +89,7 @@
       <workItem from="1570457673372" duration="3710000" />
       <workItem from="1570464612691" duration="3976000" />
       <workItem from="1570524532073" duration="129000" />
-      <workItem from="1570524662668" duration="18355000" />
+      <workItem from="1570524662668" duration="25338000" />
     </task>
     <servers />
   </component>
