@@ -756,6 +756,11 @@ margin-left: 10px;}
     font-family: "Quicksand", Arial, sans-serif;
     font-size: 16px;
     font-weight: 500; }
+
+.services.color-1 {
+  border-bottom: 2px solid black; }
+.services.color-1 .icon2 i {
+  color: black; }
   .services.color-2 {
     border-bottom: 2px solid #ec5453; }
     .services.color-2 .icon2 i {

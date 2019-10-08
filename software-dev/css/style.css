@@ -128,7 +128,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-  background: #b22cff;
+  background: lightblue;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -267,6 +267,7 @@ border: 3px solid white;}
 #colorlib-aside .colorlib-footer h3 a
 {
     color: black;
+
     font-family:cursive;
 }
         #colorlib-aside .colorlib-footer ul li a {

@@ -37,11 +37,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.webdev.html">
+  <component name="RunManager" selected="JavaScript Debug.other.html">
     <configuration name="android.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/android-dev/android.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="other.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/other-dev/other.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="webdev.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/web-dev/webdev.html" useBuiltInWebServerPort="true">
@@ -49,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.other.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.webdev.html" />
         <item itemvalue="JavaScript Debug.android.html" />
@@ -72,7 +76,16 @@
       <workItem from="1568656585116" duration="2525000" />
       <workItem from="1568670354499" duration="1092000" />
       <workItem from="1568710979244" duration="17189000" />
-      <workItem from="1568801573022" duration="5670000" />
+      <workItem from="1568801573022" duration="6787000" />
+      <workItem from="1568823484789" duration="8080000" />
+      <workItem from="1568885401017" duration="24874000" />
+      <workItem from="1568973399442" duration="3841000" />
+      <workItem from="1570442112180" duration="397000" />
+      <workItem from="1570442861716" duration="699000" />
+      <workItem from="1570457673372" duration="3710000" />
+      <workItem from="1570464612691" duration="3976000" />
+      <workItem from="1570524532073" duration="129000" />
+      <workItem from="1570524662668" duration="17577000" />
     </task>
     <servers />
   </component>

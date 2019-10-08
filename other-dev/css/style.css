@@ -39,7 +39,7 @@ a {
     text-decoration: none !important; }
 
 p {
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
     color: black;
 }
 x{
@@ -128,7 +128,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-  background: lightgreen;
+  background: #dc87e6;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -267,6 +267,7 @@ border: 3px solid white;}
 #colorlib-aside .colorlib-footer h3 a
 {
     color: black;
+
     font-family:cursive;
 }
         #colorlib-aside .colorlib-footer ul li a {
@@ -718,7 +719,10 @@ margin-left: 10px;}
 .project-image img{
      width: 730px ; 
     height: 355px ;
-    margin-top: 20px;
+}
+.project-image img2{
+     width: 230px ; 
+    height: 355px ;
 }
 .project-image p {
     margin-top: 10px;
@@ -758,12 +762,6 @@ margin-left: 10px;}
      .project-image img{
      width: 390px ; 
      height: 200px ;
-     }
-     .project-image h3 {
-         text-align: center;
-     }
-     .project-image p {
-         margin-top: 10%;
      }
 }
 
