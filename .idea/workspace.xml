@@ -19,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Front-End/HADEA Development/HADEA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -104,6 +104,7 @@
       <workItem from="1570715894988" duration="1426000" />
       <workItem from="1579089759619" duration="1765000" />
       <workItem from="1579096028536" duration="21000" />
+      <workItem from="1579213876871" duration="50000" />
     </task>
     <servers />
   </component>
